@@ -1,0 +1,9 @@
+001 - gain = 30, (5,5,5,6), light255, dark50
+002 - gain = 40, same
+003 - 50, same
+004 - 60, same (best)
+005 - 70, same
+006 - 80, same
+007 - 90, same
+008 - 100, same
+009 - 60, (5,5,5,8) new best
