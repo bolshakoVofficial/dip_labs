@@ -14,3 +14,7 @@ Car recognition on satellite photos (cv2)
 
 ## Lab4:
 Binary face classification with Neural Networks (tensorflow.keras)
+
+
+## Homework:
+Optical flow object detection. Regeneration of features
